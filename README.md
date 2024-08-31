@@ -13,8 +13,8 @@ ur welcome ;)
 -->
 
 
+[![The Art of Living](https://www.canva.com/design/DAGPdWEb4gE/a11jOrVSgcBihRouLdH_wg/watch)](https://www.canva.com/design/DAGPdWEb4gE/a11jOrVSgcBihRouLdH_wg/watch?utm_content=DAGPdWEb4gE&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" src="https://www.canva.com/design/DAGPdWEb4gE/a11jOrVSgcBihRouLdH_wg/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
 
 
 
