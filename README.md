@@ -5,16 +5,15 @@ If you wanna know how i made this gif
 
 I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
 There i made and page with the GIF content, later i record my screen with OBS
+
+
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
 <!--<a href="https://github.com/HopeWalton">![Hope's Banner](https://github.com/HopeWalton/HopeWalton/blob/main/githubBanner(1).mp4?raw=true)
 </a>
 -->
-
-
-[![The Art of Living](https://www.canva.com/design/DAGPdWEb4gE/a11jOrVSgcBihRouLdH_wg/watch)](https://www.canva.com/design/DAGPdWEb4gE/a11jOrVSgcBihRouLdH_wg/watch?utm_content=DAGPdWEb4gE&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
-
+https://github.com/user-attachments/assets/d7797120-854c-43d0-bdf6-117a6a8ef2ac
 
 
 
