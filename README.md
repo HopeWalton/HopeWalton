@@ -71,7 +71,7 @@ Contact me for collabs, coffee, or lifting sessions!
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://github.com/user-attachments/assets/8bd6169f-0f7e-4d8b-8bd4-771808cc59f3" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://github.com/user-attachments/assets/5bbecfad-3f06-47db-9cab-028a47ef8593" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://github.com/user-attachments/assets/59b83b4e-d835-4d18-8123-4fedf1ea7d95" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src=".https://github.com/user-attachments/assets/4ddac68d-f804-4c5a-861f-ac1f3450793f" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="https://github.com/user-attachments/assets/8428b313-30d0-42a4-8882-eb24edc7dfba" height="42"></a></code>
     <code><a href="https://aws.amazon.com/what-is/sql//"><img alt="SQL" title="SQL" src="https://github.com/user-attachments/assets/e42ec382-fb88-4fc4-9433-b2f237d2a4d8" height="42"></a></code>
       <code><a href="https://cplusplus.com/"><img alt="c++" title="c++" src="https://github.com/user-attachments/assets/bb328a0f-ed4d-4981-b07d-40b1e291b4c2" height="42"></a></code>
 </p>
