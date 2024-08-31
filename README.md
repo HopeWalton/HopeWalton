@@ -14,7 +14,7 @@ ur welcome ;)
 </a>
 -->
 
-[![Watch the video](https://github.com/user-attachments/assets/d7797120-854c-43d0-bdf6-117a6a8ef2ac)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![githubBanner1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/363dc830-b0ba-4384-8c78-3e74c9adb73c)
 
 
 
@@ -64,6 +64,7 @@ Contact me for collabs, coffee, or lifting sessions!
         <li>
           👑 I have a longhaired dachshund named Arthur (named after the King Arthur)
         </li>
+
     </td>
     <td style="border: none;">
       <img align="right" alt="GIF" src="githubBanner.mp4" width="450vw"/>
