@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/HopeWalton">![Hope's Profile GIF](githubBanner.mp4)</a>
+<a href="https://github.com/HopeWalton">![Hope's Profile GIF](HopeWalton/githubBanner.mp4)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
