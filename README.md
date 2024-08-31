@@ -65,12 +65,12 @@ Contact me for collabs, coffee, or lifting sessions!
         <li>
           👑 I have a longhaired dachshund named Arthur (named after the King Arthur)
         </li>
-
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="githubBanner.mp4" width="450vw"/>
+      <img align="right" alt="GIF" src="![PXL_20240813_183413726 MP~2](https://github.com/user-attachments/assets/6409cc14-89c2-4c74-92c9-09a90c74caee)" width="450vw"/>
     </td>
   </tr>
+
 </table>
 <br><br><br>
 
