@@ -1,18 +1,3 @@
-<!-- 
-GIF SECTION
-
-If you wanna know how i made this gif
-
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-
-
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
-<!--<a href="https://github.com/HopeWalton">![Hope's Banner](https://github.com/HopeWalton/HopeWalton/blob/main/githubBanner(1).mp4?raw=true)
-</a>
--->
 
 <img src="https://github.com/user-attachments/assets/363dc830-b0ba-4384-8c78-3e74c9adb73c" alt="githubBanner1" width="100%" />
 
@@ -40,6 +25,7 @@ Hello! <br />
 I am Hope Walton
 I currently live in North Idaho but have a spirit of wanderlust ✨ <br />
 I am pursuing a B.S in computer sciences at FHSU and have a prior B.S. degree in Biological Health Sciences. Early 2024, I completed two development trainee programs. <br />
+Looking to learn new skills and contribute to the community <br />
 My personal motto is "Embrace the uncomfy (uncomfortable)" ⚒️ <br />
 Outside of tech, my passions are competitve powerlifting, everything outdoors, travel, and dachshunds. 🐶 <br />
 Contact me for collabs, coffee, or lifting sessions!
@@ -75,12 +61,6 @@ Contact me for collabs, coffee, or lifting sessions!
 <br><br><br>
 
 <!-- languajes and skills section -->
-
-
-
-![c-sharp](https://github.com/user-attachments/assets/bb328a0f-ed4d-4981-b07d-40b1e291b4c2)
-
-
 
 
 <h1 align="center"> Languages/Frameworks: </h1>
