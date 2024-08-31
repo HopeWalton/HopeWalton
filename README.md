@@ -14,7 +14,8 @@ ur welcome ;)
 </a>
 -->
 
-![githubBanner1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/363dc830-b0ba-4384-8c78-3e74c9adb73c)
+<img src="https://github.com/user-attachments/assets/363dc830-b0ba-4384-8c78-3e74c9adb73c" alt="githubBanner1" width="100%" />
+
 
 
 
