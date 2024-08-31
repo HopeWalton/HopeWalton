@@ -58,7 +58,7 @@ Contact me for collabs, coffee, or lifting sessions!
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
+      <img align="right" alt="GIF" src="githubBanner.mp4" width="450vw"/>
     </td>
   </tr>
 </table>
