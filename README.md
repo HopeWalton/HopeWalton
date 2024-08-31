@@ -54,7 +54,7 @@ Contact me for collabs, coffee, or lifting sessions!
           🤝 I’m looking to collaborate on projects
         </li>
         <li>
-          🌱 I’m currently learning Python and SQL; 
+          🌱 I’m currently learning Python and SQL 
         </li>
         <li>
           🍄 I am the Webmaster (and a Board Member) for the North Idaho Mycological Association [NIMA](https://northidahomushroomclub.org/)
@@ -67,7 +67,7 @@ Contact me for collabs, coffee, or lifting sessions!
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="![PXL_20240813_183413726 MP~2](https://github.com/user-attachments/assets/6409cc14-89c2-4c74-92c9-09a90c74caee)" width="450vw"/>
+      <img src="https://github.com/user-attachments/assets/6409cc14-89c2-4c74-92c9-09a90c74caee" alt="Pic" style="width: 100%; height: auto;" />
     </td>
   </tr>
 
