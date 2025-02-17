@@ -24,7 +24,6 @@
 Hello! <br />
 I am Hope Walton
 I currently live in North Idaho but have a spirit of wanderlust ✨ <br />
-I am pursuing a B.S in computer sciences at FHSU and have a prior B.S. degree in Biological Health Sciences. Early 2024, I completed two development trainee programs. <br />
 Looking to learn new skills and contribute to the community <br />
 My personal motto is "Embrace the uncomfy (uncomfortable)" ⚒️ <br />
 Outside of tech, my passions are competitve powerlifting, everything outdoors, travel, and dachshunds. 🐶 <br />
